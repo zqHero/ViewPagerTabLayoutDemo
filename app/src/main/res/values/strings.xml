@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ViewpagerDemo</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="first">新闻</string>
+    <string name="second">军事</string>
+    <string name="third">八卦</string>
+    <string name="forth">女性</string>
+</resources>
